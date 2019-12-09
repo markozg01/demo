@@ -8,8 +8,6 @@ class DemoApplication {
 
 	static void main(String[] args) {
 		SpringApplication.run(DemoApplication, args)
-		//Aa
-		//ovo je sad novo na masteru 2
 	}
 
 }
