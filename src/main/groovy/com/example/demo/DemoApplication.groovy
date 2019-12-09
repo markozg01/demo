@@ -9,6 +9,7 @@ class DemoApplication {
 	static void main(String[] args) {
 		SpringApplication.run(DemoApplication, args)
 		//Aa
+		//ovo smo dodali u branchu
 	}
 
 }
