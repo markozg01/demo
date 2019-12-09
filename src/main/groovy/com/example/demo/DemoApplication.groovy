@@ -12,6 +12,7 @@ class DemoApplication {
 		//ovo smo dodali u branchu
 		//još i ovo
 		//ovo je sad novo na masteru 1
+		//ovo je sad novo na masteru 2
 	}
 
 }
