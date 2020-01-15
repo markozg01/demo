@@ -8,7 +8,7 @@ class DemoApplication {
 
 	static void main(String[] args) {
 		SpringApplication.run(DemoApplication, args)
-		//pero
+		//pero komentar22333pero2999000
 	}
 
 }
