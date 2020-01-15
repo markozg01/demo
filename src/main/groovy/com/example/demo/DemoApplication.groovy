@@ -12,4 +12,8 @@ class DemoApplication {
     	//nešto novo
 	}
 
+	public test(){
+
+	}
+
 }
