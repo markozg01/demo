@@ -8,7 +8,13 @@ class DemoApplication {
 
 	static void main(String[] args) {
 		SpringApplication.run(DemoApplication, args)
-		def a = 100
+		//123
+
+		//444
+	}
+
+	public test(){
+
 	}
 
 }
